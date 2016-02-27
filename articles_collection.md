@@ -12,7 +12,7 @@
 - [objccn中国](http://objccn.io)
 - [Code Review](http://www.reviewcode.cn/case.html)
 - [TB&Boy](http://www.cnblogs.com/tangbinblog/)
-- []()
+- [WooYun知识库](http://drops.wooyun.org)
 - []()
 - []()
 
@@ -54,7 +54,7 @@
 - [统计下 你码了多少行代码](http://www.cnblogs.com/tangbinblog/p/4181725.html)
 - [block 对外部引用变量的处理](http://www.cnblogs.com/tangbinblog/p/4146728.html)
 - [事件传递之响应链（Event Delivery: The Responder Chain）【转】](http://www.cnblogs.com/tangbinblog/p/4132977.html)
-
+- [iOS冰与火之歌](http://drops.wooyun.org/author/蒸米)
 
 
 # gitHub
@@ -71,7 +71,7 @@
 - [FFLabel](https://github.com/liufan321/FFLabel)
 - [一组功能丰富的iOS组件:YYKit](https://github.com/ibireme/YYKit)
 - [Test your Apple Pay integration without Apple Pay](https://github.com/stripe/ApplePayStubs)
-- []()
-- []()
-- []()
+- [避免键盘遮挡下方输入框-TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
+- [xcode注释插件-VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
+- [MLeaksFinder:精准 iOS 内存泄露检测工具](https://github.com/Zepo/MLeaksFinder)
 
