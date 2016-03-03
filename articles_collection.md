@@ -1,22 +1,6 @@
 
-# 值得收藏的博客或者站点
-- [SwiftGG-走心的 Swift 翻译组](http://swift.gg)
-- [// TODO:](http://www.saitjr.com)
-- [雷纯锋的技术博客](http://blog.leichunfeng.com)
-- [唐巧的技术博客](http://blog.devtang.com)
-- [王巍 OneV's Den](http://onevcat.com)
-- [孙源 sunnyxx](http://blog.sunnyxx.com/)
-- [刚刚在线](http://www.superqq.com/)
-- [开发技术前线](http://www.devtf.cn)
-- [刘凡的博客Joy iOS](http://www.joyios.com)
-- [objccn中国](http://objccn.io)
-- [Code Review](http://www.reviewcode.cn/case.html)
-- [TB&Boy](http://www.cnblogs.com/tangbinblog/)
-- [WooYun知识库](http://drops.wooyun.org)
-- []()
-- []()
-
 # articles
+- [iOS学习路线](https://github.com/shaojiankui/iOS-Route)
 - [iOS开发－项目的完整重命名方法，图文教程。](http://www.cnblogs.com/GarveyCalvin/p/4195745.html)
 - [iOS一步一步实现通知推送](http://www.jianshu.com/p/fda61af94d09)
 - [iOS开发－应用之间的跳转及通信](http://www.cnblogs.com/GarveyCalvin/p/4877115.html)
@@ -55,9 +39,17 @@
 - [block 对外部引用变量的处理](http://www.cnblogs.com/tangbinblog/p/4146728.html)
 - [事件传递之响应链（Event Delivery: The Responder Chain）【转】](http://www.cnblogs.com/tangbinblog/p/4132977.html)
 - [iOS冰与火之歌](http://drops.wooyun.org/author/蒸米)
+- [贝塞尔曲线扫盲](http://www.html-js.com/article/Graphics-animation-algorithm-of-Bessel-curve-literacy)
+- [MLeaksFinder：精准 iOS 内存泄露检测工具](http://wereadteam.github.io/2016/02/22/MLeaksFinder/#comments)
+- [GYHttpMock：iOS HTTP请求模拟工具](http://wereadteam.github.io/2016/02/25/GYHttpMock/)
+- [iOS 自动化测试框架 Google EarlGrey 尝鲜](https://testerhome.com/topics/4137)
+- [自动化测试与持续集成方案--IOS Daily Build](https://testerhome.com/topics/2554)
 
 
 # gitHub
+- [GitHub Most Forks](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
+- [GitHub Most Starred](https://github.com/search?q=stars:%3E1&s=stars&type=Repositories)
+- [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
 - [iOS开发精选知识点讲解](https://github.com/worldligang/iOSStrongDemo)
 - [一些 iOS / Web 开发相关的翻译或原创博客文章](https://github.com/nixzhu/dev-blog)
 - [一个弹性侧滑菜单](https://github.com/lilei644/LLSlideMenu)
@@ -74,4 +66,6 @@
 - [避免键盘遮挡下方输入框-TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
 - [xcode注释插件-VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 - [MLeaksFinder:精准 iOS 内存泄露检测工具](https://github.com/Zepo/MLeaksFinder)
+- [IOS-Categories](https://github.com/shaojiankui/IOS-Categories)
+
 
