@@ -44,6 +44,13 @@
 - [GYHttpMock：iOS HTTP请求模拟工具](http://wereadteam.github.io/2016/02/25/GYHttpMock/)
 - [iOS 自动化测试框架 Google EarlGrey 尝鲜](https://testerhome.com/topics/4137)
 - [自动化测试与持续集成方案--IOS Daily Build](https://testerhome.com/topics/2554)
+- [iOS加密的几种方式](http://jwdev.cn/2015/12/14/iOS加密/)
+- [iOS代码规范自动化](http://jwdev.cn/2016/02/29/iOS代码规范自动化/)
+- [利用Javascript去操作UIWebView的内容](http://jwdev.cn/2015/09/28/use-javascript-to-delete-web-element/)
+- [iOS经典讲解之NSTimer、CADisplayLink、GCD三种定时器的使用](http://blog.csdn.net/loving_ios/article/details/50800992)
+- [【解决方法】iOS 开发小技巧](http://www.mamicode.com/info-detail-1224858.html)
+- [iOS 下如何自动化打包 App](http://reviewcode.cn/article.html?reviewId=11)
+
 
 
 # gitHub
@@ -69,3 +76,28 @@
 - [IOS-Categories](https://github.com/shaojiankui/IOS-Categories)
 
 
+
+- [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking)
+- [rs/SDWebImage](https://github.com/rs/SDWebImage)
+- [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+- [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage)
+- [SnapKit/Masonry](https://github.com/SnapKit/Masonry)
+- [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+- [RestKit/RestKit](https://github.com/RestKit/RestKit)
+- [ccgus/fmdb](https://github.com/ccgus/fmdb)
+- [Mantle/Mantle](https://github.com/Mantle/Mantle)
+- [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
+- [alcatraz/Alcatraz](https://github.com/alcatraz/Alcatraz)
+- [onevcat/VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
+- [CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh)
+- [kevinzhow/PNChart](https://github.com/kevinzhow/PNChart)
+- [romaonthego/RESideMenu](https://github.com/romaonthego/RESideMenu)
+- [ibireme/YYKit](https://github.com/ibireme/YYKit)
+- [CEWendel/SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
+- [johnezang/JSONKit](https://github.com/johnezang/JSONKit)
+- [TTTAttributedLabel/TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
+- [facebook/xctool](https://github.com/facebook/xctool)
+- [mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
+- [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+- [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
+- [jverdi/JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)

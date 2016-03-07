@@ -18,3 +18,4 @@
 *   [Best Practices for iOS Software Design.](https://github.com/jverkoey/iOS-Best-Practices) - iOS软件设计的最佳实践
 *   [Complete-iOS-StyleGuide](https://github.com/troyharris/Complete-iOS-StyleGuide) -  iOS的风格指南
 *   [Objective-C 代码规范](https://www.zybuluo.com/FoxBabe/note/84957) - Objective-C 代码规范
+*   [Objective-C编码规范：26个方面解决iOS开发问题](http://www.csdn.net/article/2015-06-01/2824818-objective-c-style-guide/1)
