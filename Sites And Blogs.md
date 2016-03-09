@@ -76,3 +76,4 @@
 - [MrPeak技术分享](http://mrpeak.cn)
 - [青玉伏案](http://www.cnblogs.com/ludashi/)
 - [JWDev](http://jwdev.cn)
+- [一水的技术博客](http://dzpqzb.com)
