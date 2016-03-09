@@ -77,3 +77,6 @@
 - [青玉伏案](http://www.cnblogs.com/ludashi/)
 - [JWDev](http://jwdev.cn)
 - [一水的技术博客](http://dzpqzb.com)
+- [付军的博客](http://ifujun.com)
+- [Travis.Wang](http://travis.wang)
+- [董铂然](http://www.cnblogs.com/dsxniubility/)
