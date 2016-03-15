@@ -80,3 +80,7 @@
 - [付军的博客](http://ifujun.com)
 - [Travis.Wang](http://travis.wang)
 - [董铂然](http://www.cnblogs.com/dsxniubility/)
+- [土土哥的技术Blog](http://tutuge.me)
+- [Turbo Zhang编程](http://www.cnblogs.com/xiguain/)
+- [一枝红杏出墙来](http://blog.yinxianwei.cn)
+- [Vienta's Cell](http://www.vienta.me)

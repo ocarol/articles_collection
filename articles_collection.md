@@ -50,7 +50,7 @@
 - [iOS经典讲解之NSTimer、CADisplayLink、GCD三种定时器的使用](http://blog.csdn.net/loving_ios/article/details/50800992)
 - [【解决方法】iOS 开发小技巧](http://www.mamicode.com/info-detail-1224858.html)
 - [iOS 下如何自动化打包 App](http://reviewcode.cn/article.html?reviewId=11)
-
+- [Cocoa 绘图技术](http://d3caifu.com/ebook/CocoaDraw.html)
 
 
 # gitHub
@@ -74,7 +74,7 @@
 - [xcode注释插件-VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 - [MLeaksFinder:精准 iOS 内存泄露检测工具](https://github.com/Zepo/MLeaksFinder)
 - [IOS-Categories](https://github.com/shaojiankui/IOS-Categories)
-
+- [用Runtime的手段填充任意NSObject对象的nil属性](http://tutuge.me/2015/07/08/fill-nil-property-of-object/)
 
 
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking)
