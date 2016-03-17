@@ -84,3 +84,5 @@
 - [Turbo Zhang编程](http://www.cnblogs.com/xiguain/)
 - [一枝红杏出墙来](http://blog.yinxianwei.cn)
 - [Vienta's Cell](http://www.vienta.me)
+- [刘彦玮的技术博客](http://liuyanwei.jumppo.com)
+- [曾静的技术博客](http://git.devzeng.com)
