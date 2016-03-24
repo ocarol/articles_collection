@@ -51,6 +51,12 @@
 - [【解决方法】iOS 开发小技巧](http://www.mamicode.com/info-detail-1224858.html)
 - [iOS 下如何自动化打包 App](http://reviewcode.cn/article.html?reviewId=11)
 - [Cocoa 绘图技术](http://d3caifu.com/ebook/CocoaDraw.html)
+- [ios开发时，在Xcode中添加多个targets进行版本控制](http://blog.csdn.net/ysysbaobei/article/details/10951991)
+- [iOS - 创建大量相似App的另外一种选择](http://blog.startry.com/2015/09/06/Optional-solutions-for-iOS-multi-target/)
+- [iOS创建大量类似的渠道包](http://www.jianshu.com/p/5eca116159e2)
+- [xcconfig文件便捷管理大量相似APP](http://www.jianshu.com/p/5752be6dcf37)
+- [猿题库iOS客户端的技术细节（一）：使用多target来构建大量相似App](http://blog.devtang.com/2013/10/17/the-tech-detail-of-ape-client-1/)
+- [如何管理上百个渠道包?](http://swiftcn.io/topics/33)
 
 
 # gitHub
@@ -77,27 +83,4 @@
 - [用Runtime的手段填充任意NSObject对象的nil属性](http://tutuge.me/2015/07/08/fill-nil-property-of-object/)
 
 
-- [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking)
-- [rs/SDWebImage](https://github.com/rs/SDWebImage)
-- [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-- [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage)
-- [SnapKit/Masonry](https://github.com/SnapKit/Masonry)
-- [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)
-- [RestKit/RestKit](https://github.com/RestKit/RestKit)
-- [ccgus/fmdb](https://github.com/ccgus/fmdb)
-- [Mantle/Mantle](https://github.com/Mantle/Mantle)
-- [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
-- [alcatraz/Alcatraz](https://github.com/alcatraz/Alcatraz)
-- [onevcat/VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
-- [CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh)
-- [kevinzhow/PNChart](https://github.com/kevinzhow/PNChart)
-- [romaonthego/RESideMenu](https://github.com/romaonthego/RESideMenu)
-- [ibireme/YYKit](https://github.com/ibireme/YYKit)
-- [CEWendel/SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
-- [johnezang/JSONKit](https://github.com/johnezang/JSONKit)
-- [TTTAttributedLabel/TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
-- [facebook/xctool](https://github.com/facebook/xctool)
-- [mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
-- [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
-- [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
-- [jverdi/JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
+
