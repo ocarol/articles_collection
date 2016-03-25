@@ -92,3 +92,6 @@
 - [湾区日报](https://wanqu.co)
 - [代码零件](http://www.lesscode.cn)
 - [OneAPM 博客](http://news.oneapm.com)
+- [小土刀-各种技术](http://wdxtub.com)
+- [小土刀的笔记](http://wdxtub.com/library/index.html)
+- [小土刀的面试刷题笔记](http://wdxtub.com/interview/)
