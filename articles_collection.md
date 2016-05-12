@@ -57,6 +57,12 @@
 - [xcconfig文件便捷管理大量相似APP](http://www.jianshu.com/p/5752be6dcf37)
 - [猿题库iOS客户端的技术细节（一）：使用多target来构建大量相似App](http://blog.devtang.com/2013/10/17/the-tech-detail-of-ape-client-1/)
 - [如何管理上百个渠道包?](http://swiftcn.io/topics/33)
+- [首篇ApplePay应用内支付线上接入教程](http://zyden.vicp.cc/applepay/)
+- [ZYThumbnailTableView---堪比一个小型阅读App](http://zyden.vicp.cc/zythumbnailtableview/)
+- [iOS wild pointer crash](http://ytlvy.com/2015/07/21/iOS-wild-pointer-crash/)
+- [开发完iOS应用，接下去你该做的事](http://www.bingjie.me/2016/01/24/AfteriOS.html)
+- [Xcode里的Instruments工具：Leaks、Allocations、Time Profiler、Automation](http://www.jianshu.com/p/c901abfc27d5)
+- [unrecognized selector sent to instance报错总结](http://www.jianshu.com/p/3afb1b2aff33)
 
 
 # gitHub
