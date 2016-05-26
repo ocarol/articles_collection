@@ -101,3 +101,4 @@
 - [Talk is cheap, Show me the world!](http://chengway.in)
 - [珲少的博客](http://my.oschina.net/u/2340880/blog)
 - [毕洪博博客](http://bihongbo.com)
+- [小刀初试](http://www.cnblogs.com/codingtmd)

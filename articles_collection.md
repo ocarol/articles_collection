@@ -63,6 +63,10 @@
 - [开发完iOS应用，接下去你该做的事](http://www.bingjie.me/2016/01/24/AfteriOS.html)
 - [Xcode里的Instruments工具：Leaks、Allocations、Time Profiler、Automation](http://www.jianshu.com/p/c901abfc27d5)
 - [unrecognized selector sent to instance报错总结](http://www.jianshu.com/p/3afb1b2aff33)
+- [ios开发—const与预处理编译](http://www.jianshu.com/p/b51021ca8318)
+- [iOS OC内联函数 inline](http://www.jianshu.com/p/d557b0831c6a)
+
+
 
 
 # gitHub
