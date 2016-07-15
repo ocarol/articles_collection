@@ -65,8 +65,8 @@
 - [unrecognized selector sent to instance报错总结](http://www.jianshu.com/p/3afb1b2aff33)
 - [ios开发—const与预处理编译](http://www.jianshu.com/p/b51021ca8318)
 - [iOS OC内联函数 inline](http://www.jianshu.com/p/d557b0831c6a)
-
-
+- [动画特效十五：网易新闻之头部导航切换效果](http://blog.csdn.net/sinat_27706697/article/details/49529831)
+- [iTerm - 让你的命令行也能丰富多彩](http://swiftcafe.io/2015/07/25/iterm/)
 
 
 # gitHub

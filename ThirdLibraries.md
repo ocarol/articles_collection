@@ -25,7 +25,9 @@
 - [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
 - [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
 - [jverdi/JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
+- [文本内嵌图片实现独特、酷炫动画文本组件库](https://github.com/Ekhoo/Translucid)
 
 
 # open Source app or demo
 - [博客园第三方iOS客户端iCnblogs](https://github.com/polobymulberry/iCnblogs)
+- [一款开源的图片处理应用（已上架](https://github.com/100mango/Celluloid)
